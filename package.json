@@ -1,0 +1,14 @@
+{
+  "name": "web-scrapping",
+  "version": "1.0.0",
+  "description": "showroom auto farming star",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NICOXLZ",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  }
+}
